@@ -658,35 +658,35 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>#BiosReleaseDate</key>
-		<string>05/03/10</string>
+		<string></string>
 		<key>#BiosVendor</key>
-		<string>Apple Inc.</string>
+		<string></string>
 		<key>#BiosVersion</key>
-		<string>MB11.88Z.0061.B03.0809221748</string>
+		<string></string>
 		<key>#Board-ID</key>
-		<string>Mac-F4208CC8</string>
+		<string></string>
 		<key>#BoardManufacturer</key>
-		<string>Apple Inc.</string>
+		<string></string>
 		<key>#BoardSerialNumber</key>
-		<string>C02032101R5DC771H</string>
+		<string></string>
 		<key>#BoardType</key>
-		<integer>10</integer>
+		<integer></integer>
 		<key>#BoardVersion</key>
-		<string>Proto1</string>
+		<string></string>
 		<key>#ChassisAssetTag</key>
-		<string>LatitudeD420</string>
+		<string></string>
 		<key>#ChassisManufacturer</key>
-		<string>Apple Inc.</string>
+		<string></string>
 		<key>#ChassisType</key>
-		<integer>16</integer>
+		<integer></integer>
 		<key>#Family</key>
-		<string>MacBook</string>
+		<string></string>
 		<key>#FirmwareFeatures</key>
-		<string>0xC0001403</string>
+		<string></string>
 		<key>#FirmwareFeaturesMask</key>
-		<string>0xFFFFFFFF</string>
+		<string></string>
 		<key>#LocationInChassis</key>
-		<string>MLB</string>
+		<string></string>
 		<key>#Memory</key>
 		<dict>
 			<key>Channels</key>
@@ -736,7 +736,7 @@
 		<key>#ProductName</key>
 		<string>MacBook1,1</string>
 		<key>#SerialNumber</key>
-		<string>4H629LYAU9C</string>
+		<string></string>
 		<key>#Slots</key>
 		<array>
 			<dict>
@@ -761,11 +761,11 @@
 			</dict>
 		</array>
 		<key>#SmUUID</key>
-		<string>00000000-0000-1000-8000-010203040506</string>
+		<string></string>
 		<key>#Trust</key>
 		<true/>
 		<key>#Version</key>
-		<string>1.0</string>
+		<string></string>
 		<key>Mobile</key>
 		<true/>
 	</dict>
