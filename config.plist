@@ -570,15 +570,15 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BoardSerialNumber</key>
-		<string>C02904102GUKN2RUE</string>
+		<string></string>
 		<key>Mobile</key>
 		<true/>
 		<key>ProductName</key>
 		<string>MacBookAir8,1</string>
 		<key>SerialNumber</key>
-		<string>C02Y50XEJK78</string>
+		<string></string>
 		<key>SmUUID</key>
-		<string>5BAB0F16-555D-4B8E-95C4-926C1F9078C1</string>
+		<string></string>
 		<key>Trust</key>
 		<false/>
 	</dict>
