@@ -445,15 +445,15 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BoardSerialNumber</key>
-		<string></string>
+		<string>fillinyourownhere</string>
 		<key>Mobile</key>
 		<true/>
 		<key>ProductName</key>
 		<string>MacBookAir8,1</string>
 		<key>SerialNumber</key>
-		<string></string>
+		<string>C02Y50XEJK78</string>
 		<key>SmUUID</key>
-		<string></string>
+		<string>5BAB0F16-555D-4B8E-95C4-926C1F9078C1</string>
 		<key>Trust</key>
 		<false/>
 	</dict>
@@ -462,6 +462,82 @@
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
+		<true/>
+	</dict>
+	<key>Quirks</key>
+	<dict>
+		<key>AvoidRuntimeDefrag</key>
+		<true/>
+		<key>DevirtualiseMmio</key>
+		<false/>
+		<key>DisableSingleUser</key>
+		<false/>
+		<key>DisableVariableWrite</key>
+		<false/>
+		<key>DiscardHibernateMap</key>
+		<false/>
+		<key>EnableSafeModeSlide</key>
+		<true/>
+		<key>EnableWriteUnprotector</key>
+		<true/>
+		<key>ForceExitBootServices</key>
+		<false/>
+		<key>MmioWhitelist</key>
+		<array>
+			<dict>
+				<key>Address</key>
+				<integer>4278190080</integer>
+				<key>Comment</key>
+				<string>Generic: PCI root is a 0x1000 page memory region used by some firmwares</string>
+				<key>Enabled</key>
+				<false/>
+			</dict>
+		</array>
+		<key>ProtectMemoryRegions</key>
+		<false/>
+		<key>ProtectSecureBoot</key>
+		<false/>
+		<key>ProtectUefiServices</key>
+		<false/>
+		<key>ProvideConsoleGopEnable</key>
+		<true/>
+		<key>ProvideCustomSlide</key>
+		<false/>
+		<key>ProvideMaxSlide</key>
+		<integer>0</integer>
+		<key>RebuildAppleMemoryMap</key>
+		<false/>
+		<key>SetupVirtualMap</key>
+		<true/>
+		<key>SignalAppleOS</key>
+		<false/>
+		<key>SyncRuntimePermissions</key>
+		<false/>
+		<key>FuzzyMatch</key>
+		<true/>
+		<key>KernelCache</key>
+		<string>Auto</string>
+		<key>AppleXcpmExtraMsrs</key>
+		<false/>
+		<key>AppleXcpmForceBoost</key>
+		<false/>
+		<key>DisableIoMapper</key>
+		<true/>
+		<key>DisableLinkeditJettison</key>
+		<true/>
+		<key>DisableRtcChecksum</key>
+		<false/>
+		<key>DummyPowerManagement</key>
+		<false/>
+		<key>ExternalDiskIcons</key>
+		<false/>
+		<key>IncreasePciBarSize</key>
+		<false/>
+		<key>PowerTimeoutKernelPanic</key>
+		<true/>
+		<key>ThirdPartyDrives</key>
+		<false/>
+		<key>XhciPortLimit</key>
 		<true/>
 	</dict>
 </dict>
