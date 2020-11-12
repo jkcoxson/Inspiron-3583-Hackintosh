@@ -18,7 +18,7 @@ This is pretty good, but let's get the details.
 - [x] Unlock with Apple Watch
 
 ## Use
-Download Clover onto one flash drive, and replace the files in this repo. You must enter your own serial number and ID for use. Use another flash drive to flash MacOS onto it. [Guide](https://support.apple.com/en-us/HT201372). Everything should be dandy with the install.
+Download OpenCore onto one flash drive, and replace the files in this repo. You must enter your own serial number and ID for use. Use another flash drive to flash MacOS onto it. [Guide](https://support.apple.com/en-us/HT201372). Everything should be dandy with the install.
 
 ## Workarounds
 We need two workarounds currently to get things in shape. 
