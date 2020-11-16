@@ -5,8 +5,8 @@ This is pretty good, but let's get the details.
 - [x] Touchscreen
 - [x] Touchpad Gestures
 - [ ] Intel WiFi **This will probably never work, so replace with DW1560**
-- [x] HDMI Audio
-- [x] HDMI Video
+- [ ] HDMI Audio
+- [ ] HDMI Video
 - [x] Audio jack 
 - [ ] Function Keys (Workaround with Key Elements)
 - [x] Sleep
