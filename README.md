@@ -1,4 +1,7 @@
 # Inspiron-3583-Hackintosh
+
+Note, I no longer own this laptop. I won't support this config anymore, but it probably still works as of 2022.
+
 This laptop is a Hackintosher's dream. Inexpensive, relatively new, and contains **two drive bays!** Yes, my friends, dualbooting Windows and MacOS has never been easier in a laptop, so let's get started.
 ## Issues
 This is pretty good, but let's get the details.
